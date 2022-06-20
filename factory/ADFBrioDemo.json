@@ -1,0 +1,9 @@
+{
+	"name": "ADFBrioDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ebbc5b0d-a50d-4a8b-8230-4f5c95f3bac1",
+		"tenantId": "901e0c51-e4f0-4ef3-896e-c504989a0898"
+	}
+}
